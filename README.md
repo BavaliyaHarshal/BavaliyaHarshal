@@ -6,4 +6,3 @@
 🤖 Curious about AI & Machine Learning  
 🚀 Always exploring new tech and improving skills  
 
-![BavaliyaHarshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BavaliyaHarshal&show_icons=true&theme=tokyonight)
